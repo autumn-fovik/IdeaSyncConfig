@@ -1,0 +1,71 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Angular</id>
+              </State>
+              <State>
+                <id>ES2015 迁移协助JavaScript and TypeScript</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java 9Java 语言级别迁移帮助Java</id>
+              </State>
+              <State>
+                <id>Java EE</id>
+              </State>
+              <State>
+                <id>Java 语言级别迁移帮助Java</id>
+              </State>
+              <State>
+                <id>JavaScript and TypeScript</id>
+              </State>
+              <State>
+                <id>代码样式问题Java</id>
+              </State>
+              <State>
+                <id>反射访问Java</id>
+              </State>
+              <State>
+                <id>可见性Java</id>
+              </State>
+              <State>
+                <id>命名惯例Java</id>
+              </State>
+              <State>
+                <id>声明冗余Java</id>
+              </State>
+              <State>
+                <id>导入和依赖关系JavaScript and TypeScript</id>
+              </State>
+              <State>
+                <id>常规JavaScript and TypeScript</id>
+              </State>
+              <State>
+                <id>打包问题Java</id>
+              </State>
+              <State>
+                <id>模块化问题Java</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="Errors" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
